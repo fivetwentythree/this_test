@@ -1,2 +1,5 @@
 this is a test to see how this works
-then i am making some changes to the main branch
+this is the new branch called fork and lets see how this works
+=> this is the way they behave
+
+this 
